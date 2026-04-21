@@ -1,6 +1,8 @@
 ### 논문 Problem Definition 이해하기
 논문 "Objects as Points"의 Problem Definition을 설명해줘 (Experiment가 아니라 Introduction에서 선행 연구에 대해 비판을 하며)
 
+논문 "Objects as Points"의 Problem Definition(정량적인 근거)을 설명해줘 (Experiment가 아니라 Introduction에서 선행 연구에 대해 비판을 하며)
+
 논문 "RelTR: Relation Transformer for Scene Graph Generation"의 Method에서 예측된 Bounding Box를 Relation Prediction Head에서 어떻게 활용하지? (수식 위주로. 각 인자를 하나하나씩 설명하며)
 
 논문 "RelTR: Relation Transformer for Scene Graph Generation"의 Method에서 rediction Heads를 설명해줘 (수식 위주로. 각 인자를 하나하나씩 설명하며)
