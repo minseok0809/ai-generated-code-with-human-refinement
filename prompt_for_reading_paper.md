@@ -1,3 +1,17 @@
+### 논문 Problem Definition 이해하기
+논문 "Objects as Points"의 Problem Definition을 설명해줘 (Experiment가 아니라 Introduction에서 선행 연구에 대해 비판을 하며)
+
+논문 "RelTR: Relation Transformer for Scene Graph Generation"의 Method에서 예측된 Bounding Box를 Relation Prediction Head에서 어떻게 활용하지? (수식 위주로. 각 인자를 하나하나씩 설명하며)
+
+논문 "RelTR: Relation Transformer for Scene Graph Generation"의 Method에서 rediction Heads를 설명해줘 (수식 위주로. 각 인자를 하나하나씩 설명하며)
+
+논문 "RelTR: Relation Transformer for Scene Graph Generation"의 Method를 설명해줘 (수식 위주로)
+
+논문  "RelTR: Relation Transformer for Scene Graph Generation"에서는 b-box를 검출하는 task가 있다. 이와는 달리 다른 분야의 논문이 있을까? 예를 들어서, b-box가 아니라 특정 point를 찾는 분야가 있을까? 이와 비슷하게 그 두 point간의 triplet(중항은 Data에 존재하지 않는 것이다. point, b-
+box의 개념이 아니다. 예를 들어서 RelTR의 중항 )을 구성한다.
+
+<br><br>
+### 논문 Figure & 수식 이해하기
 이 수식(Uploaded image)을 출력해봐
 
 이 식(Uploaded image)에서 시간 𝑡를 제거하고 c를 y로 바꿔줘
