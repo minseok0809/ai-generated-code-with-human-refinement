@@ -17,6 +17,8 @@
 
 논문 "RelTR: Relation Transformer for Scene Graph Generation"의 Dataset과 Task를 설명해줘
 
+논문 "RelTR: Relation Transformer for Scene Graph Generation"의 Baseline과 비교 모델을 설명해줘
+
 논문 "RelTR: Relation Transformer for Scene Graph Generation"에서는 b-box를 검출하는 task가 있다. 이와는 달리 다른 분야의 논문이 있을까? 예를 들어서, b-box가 아니라 특정 point를 찾는 분야가 있을까? 이와 비슷하게 그 두 point간의 triplet(중항은 Data에 존재하지 않는 것이다. point, b-
 box의 개념이 아니다. 예를 들어서 RelTR의 중항 )을 구성한다.
 
