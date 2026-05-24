@@ -13,7 +13,7 @@
 
 논문 "RelTR: Relation Transformer for Scene Graph Generation"의 Method를 설명해줘
 
-논문 "RelTR: Relation Transformer for Scene Graph Generation"의 Experiemnt를 설명해줘
+논문 "RelTR: Relation Transformer for Scene Graph Generation"의 Experiment를 설명해줘
 
 논문 "RelTR: Relation Transformer for Scene Graph Generation"의 Dataset과 Task를 설명해줘
 
